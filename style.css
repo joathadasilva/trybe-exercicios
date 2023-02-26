@@ -1,0 +1,27 @@
+h1 {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+p {
+    font-weight: 60px;
+    font-size: 3em;
+    line-height: 20px;
+}
+body {
+    font-size: 16px ;
+}
+
+#blue {
+    text-decoration: underline;
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+    text-align: center;
+
+}
+#red {
+background-color: red;
+} 
